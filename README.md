@@ -5,12 +5,18 @@ the code is in R
 
 pre-installed R librray required:
 
-"ergm"
-
-"network"
-
-"igraph"
-
-"graphkernels"
-
+"ergm";
+"network";
+"igraph";
+"graphkernels";
 "MASS"
+
+The repo include 
+
+Base_fun.R: contains functions for computing kernels, performing tests, and related
+
+demo.R: a demo code on how to implement the tests and use functions from Base_fun.R
+
+exp_realdata: guide code to implement real data networks. 
+
+108_senmatrix.txt and senate.csv: data made for co-sponsorship network example. 
