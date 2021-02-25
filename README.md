@@ -11,7 +11,7 @@ pre-installed R librray required:
 "graphkernels";
 "MASS"
 
-The repo include 
+This repo includes: 
 
 Base_fun.R: contains functions for computing kernels, performing tests, and related
 
