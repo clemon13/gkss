@@ -3,6 +3,8 @@ graph kernel Stein statistics for goodness-of-fit tests on Exponential Random Gr
 
 the code is in R
 
+pre-installed R librray required:
+
 "ergm"
 
 "network"
